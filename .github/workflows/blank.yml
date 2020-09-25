@@ -47,7 +47,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Send Message
         if: always()
         run: wget https://sc.ftqq.com/SCU115056Tdcf25e70fac60db02cab16c1ecf107b65f6b11830254c.send?text=配置文件更新
