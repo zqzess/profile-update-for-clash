@@ -154,7 +154,7 @@ with open("./sr_top500_whitelist_ad.conf", "r", encoding="utf-8") as f1:
         bypass = lin1+lin2
         bypass = bypass.strip('\n')
         data = re.findall(r'(?:[^\s,"]|"(?:\\.|[^"])*")+', bypass)
-        print(data)
+        # print(data)
         # f2.writelines(bypass)
         # f2.close()
         yaml = ruamel.yaml.YAML()
@@ -167,7 +167,7 @@ with open("./sr_top500_whitelist_ad.conf", "r", encoding="utf-8") as f1:
         f1.close()
         with open("./sr_top500_whitelist_ad.conf", "r", encoding="utf-8") as f3:
             for searchTmp in f3.readlines():
-                if searchTmp.find('DOMAIN-SUFFIX') == 0:
+                if searchTmp.find('DOMAIN-') == 0:
                     rules="- "+searchTmp
                     f2.write(rules)
                 elif searchTmp.find('IP-CIDR') == 0:
