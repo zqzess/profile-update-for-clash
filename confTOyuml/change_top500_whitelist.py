@@ -11,6 +11,7 @@ title = tmp[len(tmp) - 1]
 title = title.replace(".conf", "")
 print(title)
 out_fname = './' + title
+rule_name='./rules/'+title
 
 lin1 = ""
 lin2 = ""
@@ -147,7 +148,7 @@ endstr = """\
 - MATCH,Final
 """
 with open(out_fname+".conf", "r", encoding="utf-8") as f1:
-    with open(out_fname+".yaml", "w", encoding="utf-8") as f2:
+    with open(rule_name+".yaml", "w", encoding="utf-8") as f2:
         for lineTmp in f1.readlines():
             if lineTmp.find('skip-proxy') == 0:
                 lin1 = lineTmp
@@ -181,6 +182,7 @@ with open(out_fname+".conf", "r", encoding="utf-8") as f1:
                 elif searchTmp.find('IP-CIDR') == 0:
                     rules = "- " + searchTmp
                     f2.write(rules)
+        f3.close()
         endyaml = yaml.load(endstr)
         yaml.dump(endyaml, f2)
         f2.close()

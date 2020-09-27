@@ -3,6 +3,17 @@ import ruamel.yaml
 import sys
 import yaml
 import json
+import os
+
+if os.path.exists('./rules') == False:
+  os.makedirs('./rules')
+DATA_URL = 'https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf'
+tmp = DATA_URL.split("/")
+title = tmp[len(tmp) - 1]
+title = title.replace(".conf", "")
+print(title)
+out_fname = './' + title
+rule_name = './rules/'+title
 
 lin1 = ""
 lin2 = ""
@@ -138,8 +149,8 @@ endstr = """\
 
 - MATCH,Final
 """
-with open("./sr_top500_whitelist_ad.conf", "r", encoding="utf-8") as f1:
-    with open("./sr_top500_whitelist_ad.yaml", "w", encoding="utf-8") as f2:
+with open(out_fname+".conf", "r", encoding="utf-8") as f1:
+    with open(rule_name+".yaml", "w", encoding="utf-8") as f2:
         for lineTmp in f1.readlines():
             if lineTmp.find('skip-proxy') == 0:
                 lin1 = lineTmp
@@ -165,7 +176,7 @@ with open("./sr_top500_whitelist_ad.conf", "r", encoding="utf-8") as f1:
         yaml.dump(proxies, f2)
         f2.write(tip)
         f1.close()
-        with open("./sr_top500_whitelist_ad.conf", "r", encoding="utf-8") as f3:
+        with open(out_fname+".conf", "r", encoding="utf-8") as f3:
             for searchTmp in f3.readlines():
                 if searchTmp.find('DOMAIN-') == 0:
                     rules="- "+searchTmp
@@ -173,6 +184,7 @@ with open("./sr_top500_whitelist_ad.conf", "r", encoding="utf-8") as f1:
                 elif searchTmp.find('IP-CIDR') == 0:
                     rules = "- " + searchTmp
                     f2.write(rules)
+        f3.close()
         endyaml = yaml.load(endstr)
         yaml.dump(endyaml,f2)
         f2.close()
