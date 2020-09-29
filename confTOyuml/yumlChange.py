@@ -19,6 +19,7 @@ lin1 = ""
 lin2 = ""
 bypass = ""
 tip = ""
+adtip = ""
 rules = ""
 head = """\
 # HTTP 端口
@@ -158,6 +159,8 @@ with open(out_fname+".conf", "r", encoding="utf-8") as f1:
             elif lineTmp.find('bypass-tun') == 0:
                 lin2 = lineTmp
             elif lineTmp.find('# adblock rules refresh time') == 0:
+                adtip = lineTmp
+            elif lineTmp.find('# top500 direct list update time') == 0:
                 tip = lineTmp
         lin1 = lin1.replace("skip-proxy = ", "")
         lin2 = lin2.replace("bypass-tun = ", "")
@@ -175,6 +178,7 @@ with open(out_fname+".conf", "r", encoding="utf-8") as f1:
         yaml.dump(data, f2)
         yaml.dump(proxies, f2)
         f2.write(tip)
+        f2.write(adtip)
         f1.close()
         with open(out_fname+".conf", "r", encoding="utf-8") as f3:
             for searchTmp in f3.readlines():
