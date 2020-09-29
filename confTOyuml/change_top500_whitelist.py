@@ -9,9 +9,9 @@ DATA_URL = 'https://h2y.github.io/Shadowrocket-ADBlock-Rules/sr_top500_whitelist
 tmp = DATA_URL.split("/")
 title = tmp[len(tmp) - 1]
 title = title.replace(".conf", "")
-print(title)
+# print(title)
 out_fname = './' + title
-rule_name='./rules/'+title
+rule_name='../rules/'+title
 
 lin1 = ""
 lin2 = ""
@@ -92,15 +92,8 @@ proxy = """\
 cfw-latency-timeout: 5000
 # 代理节点
 proxies:
-# Trojan
-- name: "trojan"
-  type: trojan
-  server: type.netctoout.top
-  port: 443
-  password: password0210
-  alpn: 
-      - h2
-      - http/1.1
+#此处添加代理
+
 # 代理组策略
 proxy-groups:
 
