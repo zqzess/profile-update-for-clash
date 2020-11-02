@@ -346,6 +346,7 @@ rules:
 - DOMAIN-SUFFIX,alicejapan.co.jp,PROXY
 - DOMAIN-SUFFIX,aliengu.com,PROXY
 - DOMAIN-SUFFIX,alkasir.com,PROXY
+- DOMAIN-SUFFIX,all4mom.org,PROXY
 - DOMAIN-SUFFIX,allcoin.com,PROXY
 - DOMAIN-SUFFIX,allconnected.co,PROXY
 - DOMAIN-SUFFIX,alldrawnsex.com,PROXY
@@ -854,6 +855,7 @@ rules:
 - DOMAIN-SUFFIX,cam4.jp,PROXY
 - DOMAIN-SUFFIX,cam4.sg,PROXY
 - DOMAIN-SUFFIX,camfrog.com,PROXY
+- DOMAIN-SUFFIX,campaignforuyghurs.org,PROXY
 - DOMAIN-SUFFIX,cams.com,PROXY
 - DOMAIN-SUFFIX,cams.org.sg,PROXY
 - DOMAIN-SUFFIX,canadameet.com,PROXY
@@ -1843,6 +1845,7 @@ rules:
 - DOMAIN-SUFFIX,freegao.com,PROXY
 - DOMAIN-SUFFIX,freehongkong.org,PROXY
 - DOMAIN-SUFFIX,freeilhamtohti.org,PROXY
+- DOMAIN-SUFFIX,freekazakhs.org,PROXY
 - DOMAIN-SUFFIX,freekwonpyong.org,PROXY
 - DOMAIN-SUFFIX,freelotto.com,PROXY
 - DOMAIN-SUFFIX,freeman2.com,PROXY
@@ -2039,6 +2042,7 @@ rules:
 - DOMAIN-SUFFIX,gmodules.com,PROXY
 - DOMAIN-SUFFIX,gmozomg.izihost.org,PROXY
 - DOMAIN-SUFFIX,gnci.org.hk,PROXY
+- DOMAIN-SUFFIX,gnews.org,PROXY
 - DOMAIN-SUFFIX,go-pki.com,PROXY
 - DOMAIN-SUFFIX,go.nesnode.com,PROXY
 - DOMAIN-SUFFIX,go141.com,PROXY
@@ -2205,6 +2209,7 @@ rules:
 - DOMAIN-SUFFIX,gstatic.com,PROXY
 - DOMAIN-SUFFIX,gtricks.com,PROXY
 - DOMAIN-SUFFIX,gts-vpn.com,PROXY
+- DOMAIN-SUFFIX,gtv.org,PROXY
 - DOMAIN-SUFFIX,gu-chu-sum.org,PROXY
 - DOMAIN-SUFFIX,guaguass.com,PROXY
 - DOMAIN-SUFFIX,guaguass.org,PROXY
@@ -2282,6 +2287,7 @@ rules:
 - DOMAIN-SUFFIX,helpeachpeople.com,PROXY
 - DOMAIN-SUFFIX,helplinfen.com,PROXY
 - DOMAIN-SUFFIX,helpster.de,PROXY
+- DOMAIN-SUFFIX,helpuyghursnow.org,PROXY
 - DOMAIN-SUFFIX,helpzhuling.org,PROXY
 - DOMAIN-SUFFIX,hentai.to,PROXY
 - DOMAIN-SUFFIX,hentaitube.tv,PROXY
@@ -2543,6 +2549,7 @@ rules:
 - DOMAIN-SUFFIX,iipdigital.usembassy.gov,PROXY
 - DOMAIN-SUFFIX,ikstar.com,PROXY
 - DOMAIN-SUFFIX,ikwb.com,PROXY
+- DOMAIN-SUFFIX,ilhamtohtiinstitute.org,PROXY
 - DOMAIN-SUFFIX,illusionfactory.com,PROXY
 - DOMAIN-SUFFIX,ilove80.be,PROXY
 - DOMAIN-SUFFIX,ilovelongtoes.com,PROXY
@@ -3123,6 +3130,7 @@ rules:
 - DOMAIN-SUFFIX,mimivip.com,PROXY
 - DOMAIN-SUFFIX,mimivv.com,PROXY
 - DOMAIN-SUFFIX,mindrolling.org,PROXY
+- DOMAIN-SUFFIX,mingdemedia.org,PROXY
 - DOMAIN-SUFFIX,minghui-a.org,PROXY
 - DOMAIN-SUFFIX,minghui-b.org,PROXY
 - DOMAIN-SUFFIX,minghui-school.org,PROXY
@@ -3949,6 +3957,7 @@ rules:
 - DOMAIN-SUFFIX,renyurenquan.org,PROXY
 - DOMAIN-SUFFIX,research.jmsc.hku.hk,PROXY
 - DOMAIN-SUFFIX,resilio.com,PROXY
+- DOMAIN-SUFFIX,resistchina.org,PROXY
 - DOMAIN-SUFFIX,retweeteffect.com,PROXY
 - DOMAIN-SUFFIX,retweetist.com,PROXY
 - DOMAIN-SUFFIX,retweetrank.com,PROXY
@@ -4323,6 +4332,7 @@ rules:
 - DOMAIN-SUFFIX,stackoverflow.com,PROXY
 - DOMAIN-SUFFIX,stage64.hk,PROXY
 - DOMAIN-SUFFIX,standupfortibet.org,PROXY
+- DOMAIN-SUFFIX,standwithhk.org,PROXY
 - DOMAIN-SUFFIX,stanford.edu,PROXY
 - DOMAIN-SUFFIX,starfishfx.com,PROXY
 - DOMAIN-SUFFIX,starp2p.com,PROXY
@@ -4582,7 +4592,6 @@ rules:
 - DOMAIN-SUFFIX,tibet-envoy.eu,PROXY
 - DOMAIN-SUFFIX,tibet-foundation.org,PROXY
 - DOMAIN-SUFFIX,tibet-house-trust.co.uk,PROXY
-- DOMAIN-SUFFIX,tibet-info.net,PROXY
 - DOMAIN-SUFFIX,tibet-initiative.de,PROXY
 - DOMAIN-SUFFIX,tibet-munich.de,PROXY
 - DOMAIN-SUFFIX,tibet.a.se,PROXY
@@ -4797,6 +4806,7 @@ rules:
 - DOMAIN-SUFFIX,turbobit.net,PROXY
 - DOMAIN-SUFFIX,turbohide.com,PROXY
 - DOMAIN-SUFFIX,turbotwitter.com,PROXY
+- DOMAIN-SUFFIX,turkistantimes.com,PROXY
 - DOMAIN-SUFFIX,turntable.fm,PROXY
 - DOMAIN-SUFFIX,tushycash.com,PROXY
 - DOMAIN-SUFFIX,tuvpn.com,PROXY
