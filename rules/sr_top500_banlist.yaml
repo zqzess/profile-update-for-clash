@@ -440,7 +440,7 @@ rules:
 - DOMAIN-SUFFIX,apidocs.linksalpha.com,PROXY
 - DOMAIN-SUFFIX,apigee.com,PROXY
 - DOMAIN-SUFFIX,apk-dl.com,PROXY
-- DOMAIN-SUFFIX,apkdler.com,PROXY
+- DOMAIN-SUFFIX,apkcombo.com,PROXY
 - DOMAIN-SUFFIX,apkmirror.com,PROXY
 - DOMAIN-SUFFIX,apkmonk.com,PROXY
 - DOMAIN-SUFFIX,apkplz.com,PROXY
@@ -3627,6 +3627,7 @@ rules:
 - DOMAIN-SUFFIX,paradisehill.cc,PROXY
 - DOMAIN-SUFFIX,paradisepoker.com,PROXY
 - DOMAIN-SUFFIX,parkansky.com,PROXY
+- DOMAIN-SUFFIX,parler.com,PROXY
 - DOMAIN-SUFFIX,parsevideo.com,PROXY
 - DOMAIN-SUFFIX,partycasino.com,PROXY
 - DOMAIN-SUFFIX,partypoker.com,PROXY
