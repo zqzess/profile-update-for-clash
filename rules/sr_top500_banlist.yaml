@@ -287,6 +287,7 @@ rules:
 - DOMAIN-SUFFIX,acevpn.com,PROXY
 - DOMAIN-SUFFIX,acg18.me,PROXY
 - DOMAIN-SUFFIX,acgkj.com,PROXY
+- DOMAIN-SUFFIX,acgnx.se,PROXY
 - DOMAIN-SUFFIX,acmedia365.com,PROXY
 - DOMAIN-SUFFIX,acmetoy.com,PROXY
 - DOMAIN-SUFFIX,acnw.com.au,PROXY
@@ -698,7 +699,6 @@ rules:
 - DOMAIN-SUFFIX,blog.fuckgfw233.org,PROXY
 - DOMAIN-SUFFIX,blog.goo.ne.jp,PROXY
 - DOMAIN-SUFFIX,blog.google,PROXY
-- DOMAIN-SUFFIX,blog.inoreader.com,PROXY
 - DOMAIN-SUFFIX,blog.istef.info,PROXY
 - DOMAIN-SUFFIX,blog.jackjia.com,PROXY
 - DOMAIN-SUFFIX,blog.jp,PROXY
@@ -1067,6 +1067,7 @@ rules:
 - DOMAIN-SUFFIX,circlethebayfortibet.org,PROXY
 - DOMAIN-SUFFIX,cirosantilli.com,PROXY
 - DOMAIN-SUFFIX,citizencn.com,PROXY
+- DOMAIN-SUFFIX,citizenlab.ca,PROXY
 - DOMAIN-SUFFIX,citizenlab.org,PROXY
 - DOMAIN-SUFFIX,citizenscommission.hk,PROXY
 - DOMAIN-SUFFIX,citizensradio.org,PROXY
@@ -1391,7 +1392,6 @@ rules:
 - DOMAIN-SUFFIX,dolf.org.hk,PROXY
 - DOMAIN-SUFFIX,dollf.com,PROXY
 - DOMAIN-SUFFIX,domain.club.tw,PROXY
-- DOMAIN-SUFFIX,domainhelp.search.com,PROXY
 - DOMAIN-SUFFIX,domains.google,PROXY
 - DOMAIN-SUFFIX,domaintoday.com.au,PROXY
 - DOMAIN-SUFFIX,dongtaiwang.com,PROXY
@@ -2064,6 +2064,7 @@ rules:
 - DOMAIN-SUFFIX,golang.org,PROXY
 - DOMAIN-SUFFIX,goldbet.com,PROXY
 - DOMAIN-SUFFIX,goldbetsports.com,PROXY
+- DOMAIN-SUFFIX,golden-ages.org,PROXY
 - DOMAIN-SUFFIX,goldeneyevault.com,PROXY
 - DOMAIN-SUFFIX,goldenfrog.com,PROXY
 - DOMAIN-SUFFIX,goldjizz.com,PROXY
@@ -2210,6 +2211,7 @@ rules:
 - DOMAIN-SUFFIX,gtricks.com,PROXY
 - DOMAIN-SUFFIX,gts-vpn.com,PROXY
 - DOMAIN-SUFFIX,gtv.org,PROXY
+- DOMAIN-SUFFIX,gtv1.org,PROXY
 - DOMAIN-SUFFIX,gu-chu-sum.org,PROXY
 - DOMAIN-SUFFIX,guaguass.com,PROXY
 - DOMAIN-SUFFIX,guaguass.org,PROXY
@@ -2407,6 +2409,7 @@ rules:
 - DOMAIN-SUFFIX,hongkongfp.com,PROXY
 - DOMAIN-SUFFIX,hongmeimei.com,PROXY
 - DOMAIN-SUFFIX,hongzhi.li,PROXY
+- DOMAIN-SUFFIX,honven.xyz,PROXY
 - DOMAIN-SUFFIX,hootsuite.com,PROXY
 - DOMAIN-SUFFIX,hoovers.com,PROXY
 - DOMAIN-SUFFIX,hopedialogue.org,PROXY
@@ -2505,6 +2508,7 @@ rules:
 - DOMAIN-SUFFIX,iask.ca,PROXY
 - DOMAIN-SUFFIX,iav19.com,PROXY
 - DOMAIN-SUFFIX,ibiblio.org,PROXY
+- DOMAIN-SUFFIX,ibit.am,PROXY
 - DOMAIN-SUFFIX,iblist.com,PROXY
 - DOMAIN-SUFFIX,iblogserv-f.net,PROXY
 - DOMAIN-SUFFIX,ibros.org,PROXY
@@ -2588,6 +2592,7 @@ rules:
 - DOMAIN-SUFFIX,inkui.com,PROXY
 - DOMAIN-SUFFIX,inmediahk.net,PROXY
 - DOMAIN-SUFFIX,innermongolia.org,PROXY
+- DOMAIN-SUFFIX,inoreader.com,PROXY
 - DOMAIN-SUFFIX,inote.tw,PROXY
 - DOMAIN-SUFFIX,insecam.org,PROXY
 - DOMAIN-SUFFIX,insidevoa.com,PROXY
@@ -2849,6 +2854,7 @@ rules:
 - DOMAIN-SUFFIX,kurtmunger.com,PROXY
 - DOMAIN-SUFFIX,kusocity.com,PROXY
 - DOMAIN-SUFFIX,kwcg.ca,PROXY
+- DOMAIN-SUFFIX,kwok7.com,PROXY
 - DOMAIN-SUFFIX,kwongwah.com.my,PROXY
 - DOMAIN-SUFFIX,kxsw.life,PROXY
 - DOMAIN-SUFFIX,kyofun.com,PROXY
@@ -2865,6 +2871,7 @@ rules:
 - DOMAIN-SUFFIX,lamayeshe.com,PROXY
 - DOMAIN-SUFFIX,lamnia.co.uk,PROXY
 - DOMAIN-SUFFIX,lamrim.com,PROXY
+- DOMAIN-SUFFIX,landofhope.tv,PROXY
 - DOMAIN-SUFFIX,lanterncn.cn,PROXY
 - DOMAIN-SUFFIX,lantosfoundation.org,PROXY
 - DOMAIN-SUFFIX,laod.cn,PROXY
@@ -2990,6 +2997,7 @@ rules:
 - DOMAIN-SUFFIX,lsmwebcast.com,PROXY
 - DOMAIN-SUFFIX,lsxszzg.com,PROXY
 - DOMAIN-SUFFIX,ltn.com.tw,PROXY
+- DOMAIN-SUFFIX,luckydesigner.space,PROXY
 - DOMAIN-SUFFIX,luke54.com,PROXY
 - DOMAIN-SUFFIX,luke54.org,PROXY
 - DOMAIN-SUFFIX,lupm.org,PROXY
@@ -3372,6 +3380,7 @@ rules:
 - DOMAIN-SUFFIX,news.tvb.com,PROXY
 - DOMAIN-SUFFIX,news.tvbs.com.tw,PROXY
 - DOMAIN-SUFFIX,news.yahoo.com,PROXY
+- DOMAIN-SUFFIX,news.ycombinator.com,PROXY
 - DOMAIN-SUFFIX,news100.com.tw,PROXY
 - DOMAIN-SUFFIX,newsancai.com,PROXY
 - DOMAIN-SUFFIX,newschinacomment.org,PROXY
@@ -3510,6 +3519,7 @@ rules:
 - DOMAIN-SUFFIX,oclp.hk,PROXY
 - DOMAIN-SUFFIX,ocreampies.com,PROXY
 - DOMAIN-SUFFIX,ocry.com,PROXY
+- DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,PROXY
 - DOMAIN-SUFFIX,october-review.org,PROXY
 - DOMAIN-SUFFIX,oculus.com,PROXY
 - DOMAIN-SUFFIX,oculuscdn.com,PROXY
@@ -3519,6 +3529,7 @@ rules:
 - DOMAIN-SUFFIX,ofile.org,PROXY
 - DOMAIN-SUFFIX,ogaoga.org,PROXY
 - DOMAIN-SUFFIX,ogate.org,PROXY
+- DOMAIN-SUFFIX,ohmyrss.com,PROXY
 - DOMAIN-SUFFIX,oikos.com.tw,PROXY
 - DOMAIN-SUFFIX,oiktv.com,PROXY
 - DOMAIN-SUFFIX,oizoblog.com,PROXY
@@ -4001,6 +4012,7 @@ rules:
 - DOMAIN-SUFFIX,rsf-chinese.org,PROXY
 - DOMAIN-SUFFIX,rsf.org,PROXY
 - DOMAIN-SUFFIX,rsgamen.org,PROXY
+- DOMAIN-SUFFIX,rsshub.app,PROXY
 - DOMAIN-SUFFIX,rssmeme.com,PROXY
 - DOMAIN-SUFFIX,rtalabel.org,PROXY
 - DOMAIN-SUFFIX,rthk.hk,PROXY
@@ -4068,11 +4080,12 @@ rules:
 - DOMAIN-SUFFIX,scratch.mit.edu,PROXY
 - DOMAIN-SUFFIX,scribd.com,PROXY
 - DOMAIN-SUFFIX,scriptspot.com,PROXY
-- DOMAIN-SUFFIX,seapuff.com,PROXY
 - DOMAIN-SUFFIX,search.aol.com,PROXY
+- DOMAIN-SUFFIX,search.com,PROXY
 - DOMAIN-SUFFIX,search.yahoo.co.jp,PROXY
 - DOMAIN-SUFFIX,search.yahoo.com,PROXY
 - DOMAIN-SUFFIX,searchtruth.com,PROXY
+- DOMAIN-SUFFIX,searx.me,PROXY
 - DOMAIN-SUFFIX,secretchina.com,PROXY
 - DOMAIN-SUFFIX,secretgarden.no,PROXY
 - DOMAIN-SUFFIX,secretsline.biz,PROXY
@@ -4370,6 +4383,7 @@ rules:
 - DOMAIN-SUFFIX,stoweboyd.com,PROXY
 - DOMAIN-SUFFIX,stranabg.com,PROXY
 - DOMAIN-SUFFIX,straplessdildo.com,PROXY
+- DOMAIN-SUFFIX,streamate.com,PROXY
 - DOMAIN-SUFFIX,streamingthe.net,PROXY
 - DOMAIN-SUFFIX,streema.com,PROXY
 - DOMAIN-SUFFIX,strikingly.com,PROXY
@@ -4546,6 +4560,7 @@ rules:
 - DOMAIN-SUFFIX,thefrontier.hk,PROXY
 - DOMAIN-SUFFIX,thegioitinhoc.vn,PROXY
 - DOMAIN-SUFFIX,thegly.com,PROXY
+- DOMAIN-SUFFIX,theguardian.com,PROXY
 - DOMAIN-SUFFIX,thehots.info,PROXY
 - DOMAIN-SUFFIX,thehousenews.com,PROXY
 - DOMAIN-SUFFIX,thehun.net,PROXY
@@ -4813,6 +4828,7 @@ rules:
 - DOMAIN-SUFFIX,tuvpn.com,PROXY
 - DOMAIN-SUFFIX,tuzaijidi.com,PROXY
 - DOMAIN-SUFFIX,tv.com,PROXY
+- DOMAIN-SUFFIX,tv.jtbc.joins.com,PROXY
 - DOMAIN-SUFFIX,tvants.com,PROXY
 - DOMAIN-SUFFIX,tvboxnow.com,PROXY
 - DOMAIN-SUFFIX,tvider.com,PROXY
@@ -5376,7 +5392,6 @@ rules:
 - DOMAIN-SUFFIX,www.antd.org,PROXY
 - DOMAIN-SUFFIX,www.aolnews.com,PROXY
 - DOMAIN-SUFFIX,www.businessinsider.com.au,PROXY
-- DOMAIN-SUFFIX,www.citizenlab.org,PROXY
 - DOMAIN-SUFFIX,www.cmoinc.org,PROXY
 - DOMAIN-SUFFIX,www.cool18.com,PROXY
 - DOMAIN-SUFFIX,www.dmm.com,PROXY
@@ -5563,6 +5578,7 @@ rules:
 - DOMAIN-SUFFIX,yourtrap.com,PROXY
 - DOMAIN-SUFFIX,yousendit.com,PROXY
 - DOMAIN-SUFFIX,youshun12.com,PROXY
+- DOMAIN-SUFFIX,youthforfreechina.org,PROXY
 - DOMAIN-SUFFIX,youthnetradio.org,PROXY
 - DOMAIN-SUFFIX,youtu.be,PROXY
 - DOMAIN-SUFFIX,youtube-nocookie.com,PROXY
