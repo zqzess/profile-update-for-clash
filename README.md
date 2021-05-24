@@ -14,3 +14,4 @@ clash 分流配置更新，自用，上源来自GitHub Shadowrocket-ADBlock-Rule
 
 关于添加代理节点的一些[示例](https://gist.github.com/zqzess/2f37972006c7b0ade846ca74bb9d1b8f)(此页面可能需要科学上网)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqzess&show_icons=true&count_private=true)](https://github.com/zqzess/profile-update-for-clash)
